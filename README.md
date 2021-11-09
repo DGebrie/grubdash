@@ -11,7 +11,7 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 
 ##### Development
 
-> > **Backend:**
+> **Backend:**
 
 > Open the ```server``` directory:
 >  ```
@@ -28,7 +28,7 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 >  npm start
 >  ```
 
-> > **Client:**
+> **Client:**
 
 > Open the ```client``` directory:
 >  ```
