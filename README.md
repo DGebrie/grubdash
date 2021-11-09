@@ -1,6 +1,5 @@
 # Grubdash
-The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
-The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Cirillo used as a university student.
+You've been hired as a backend developer for a new startup called GrubDash! As another developer works on the design and frontend experience, you have been tasked with setting up an API and building out specific routes so that the frontend developers can demo some initial design ideas for the big bosses.
 
 ##### Tech Stack
 > * JavaScript
