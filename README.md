@@ -10,7 +10,9 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 
 
 ##### Development
-####### Backend
+
+Backend:
+Open the ```server``` directory:
 > Run the following from the root of the directory to install dependencies
 >  ```
 >  npm install 
