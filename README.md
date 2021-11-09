@@ -11,7 +11,7 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 
 ##### Development
 
-> Backend:
+> > Backend:
 > Open the ```server``` directory:
 >  ```
 >  cd server  
@@ -26,10 +26,12 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 >  ```
 >  npm start
 >  ```
+
 >  > Client:
-> Open the ```server``` directory:
+
+> Open the ```client``` directory:
 >  ```
->  cd server  
+>  cd client 
 >  ```
 
 > Install dependancies:
@@ -37,7 +39,7 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 >  npm install
 >  ```
 
-> Run backend
+> Run frontend
 >  ```
 >  npm start
 >  ```
