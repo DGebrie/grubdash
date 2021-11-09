@@ -11,21 +11,35 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 
 ##### Development
 
-Backend:
-Open the ```server``` directory:
-> Run the following from the root of the directory to install dependencies
+> Backend:
+> Open the ```server``` directory:
 >  ```
->  npm install 
+>  cd server  
 >  ```
 
-> Run the following from the root of the directory to run the app locally
+> Install dependancies:
 >  ``` 
+>  npm install
+>  ```
+
+> Run backend
+>  ```
 >  npm start
 >  ```
-
-> Run the following from the root of the directory to run tests
+>  > Client:
+> Open the ```server``` directory:
 >  ```
->  npm test
+>  cd server  
+>  ```
+
+> Install dependancies:
+>  ``` 
+>  npm install
+>  ```
+
+> Run backend
+>  ```
+>  npm start
 >  ```
 
 
