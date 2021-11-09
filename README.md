@@ -4,7 +4,8 @@ You've been hired as a backend developer for a new startup called GrubDash! As a
 ##### Tech Stack
 > * JavaScript
 > * React.js
-> * Vercel
+> * Express
+> * Node.js
 
 
 
